@@ -1,8 +1,8 @@
 # Vincent Lauriat
 
-**CTO / CIO — and I still ship code.**
+CTO & CIO by day. Native macOS apps by night — menu bar utilities, home & energy monitoring, AI dev tooling. Swift/SwiftUI, signed, notarized, shipped.
 
-I build **native macOS apps**: menu-bar utilities, home & energy monitoring, AI developer tooling, and a few faithful arcade remakes. Almost everything here is Swift / SwiftUI, code-signed and notarized, with Sparkle auto-updates and a DMG you can actually download.
+**CTO / CIO — and I still ship code.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentlauriat.github.io-0A84FF?style=flat-square&logo=apple&logoColor=white)](https://vincentlauriat.github.io)
 [![Website](https://img.shields.io/badge/Website-lauriat.fr-333333?style=flat-square&logo=safari&logoColor=white)](https://lauriat.fr)
