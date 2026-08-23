@@ -1,6 +1,6 @@
 **CTO / CIO by day — and I still ship code at night.** Native macOS apps, self-hosted infrastructure and AI dev tooling: menu bar utilities, home & energy monitoring, and the tools I need to build them. Swift, SwiftUI, Rust, Python.
 
-`27` repos with a published release · `25` ship a Developer ID–signed, Apple-notarized DMG · `2,146` contributions in the last year
+`27` repos with a published release · `25` ship a downloadable DMG · `2,146` contributions in the last year
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentlauriat.github.io-0A84FF?style=flat-square&logo=apple&logoColor=white)](https://vincentlauriat.github.io)
 [![Website](https://img.shields.io/badge/Website-lauriat.fr-333333?style=flat-square&logo=safari&logoColor=white)](https://lauriat.fr)
