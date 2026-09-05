@@ -23,6 +23,13 @@
 ## Everything else
 
 <details open>
+<summary><b>Home &amp; 3D</b></summary>
+
+- **[3D Scanner](https://github.com/vincentlauriat/3DScanner)** — scan a room with the iPhone LiDAR, get a dimensioned 2D plan and a 3D model, view them on the Mac, share PDF/DXF/SVG/USDZ/OBJ with any app through iCloud Drive · *in development* · [landing page](https://vincentlauriat.github.io/3DScanner/)
+
+</details>
+
+<details open>
 <summary><b>Menu bar &amp; system utilities</b></summary>
 
 - **[WifiManager](https://github.com/vincentlauriat/WifiManager)** — real-time WiFi quality, tells a real network from an iPhone hotspot, scores it per use case
