@@ -1,6 +1,6 @@
 **CTO / CIO by day — and I still ship code at night.** Native macOS apps, self-hosted infrastructure and AI dev tooling: menu bar utilities, home & energy monitoring, and the tools I need to build them. Swift, SwiftUI, Rust, Python.
 
-`27` repos with a published release · `25` ship a downloadable DMG · `2,146` contributions in the last year
+`31` repos with a published release · `28` ship a downloadable DMG · `2,146` contributions in the last year
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentlauriat.github.io-0A84FF?style=flat-square&logo=apple&logoColor=white)](https://vincentlauriat.github.io)
 [![Website](https://img.shields.io/badge/Website-lauriat.fr-333333?style=flat-square&logo=safari&logoColor=white)](https://lauriat.fr)
@@ -63,6 +63,7 @@
 - **[RTKInfos](https://github.com/vincentlauriat/RTKInfos)** — visualize token savings from [rtk](https://github.com/rtk-ai/rtk) by rtk-ai, a CLI proxy that cuts LLM token use by 60–90%
 - **[BmadBrowser](https://github.com/vincentlauriat/BmadBrowser)** — browse and edit BMad method Markdown artifacts across projects
 - **[plaud-companion](https://github.com/vincentlauriat/plaud-companion)** — read and sync Plaud voice notes, push them to Notion
+- **[Looki pour Mac](https://github.com/vincentlauriat/LookiMac)** — review, search and archive the moments of a Looki L1 wearable camera: calendar, timeline, gallery of every clip, the Looki journal feed, semantic search, one-click day archive
 - **[StartAlice](https://github.com/vincentlauriat/StartAlice)** — one-click updater & launcher for the OpenAlice trading agent
 - **[OSINT-index](https://github.com/vincentlauriat/OSINT-index)** — catalogue of OSINT tools by category, macOS & iOS
 
