@@ -76,7 +76,7 @@
 - **[SpaceInvaders](https://github.com/vincentlauriat/SpaceInvaders)** — original 224×256 arcade resolution, 8-bit sound, CRT scanlines
 - **[Solitaire](https://github.com/vincentlauriat/Solitaire)** — Klondike in 100% SwiftUI, every card drawn in code
 - **[Sudoku](https://github.com/vincentlauriat/Sudoku)** — guaranteed-unique puzzles and an auto-play mode that solves the board itself
-- **[VisualRami](https://github.com/vincentlauriat/VisualRami)** — online French Rummy (Rami 51) for 2–6 players with live video and voice between everyone at the table, WebRTC mesh, games that survive a week · [play](https://visualrami-vl-09150521.azurewebsites.net) · [landing page](https://lauriat.fr/outils/visualrami/)
+- **[VisualRami](https://github.com/vincentlauriat/VisualRami)** — online French Rummy (Rami 51) for 2–6 players with live video and voice between everyone at the table, WebRTC mesh, games that survive a week · [landing page](https://lauriat.fr/outils/visualrami/)
 
 </details>
 
