@@ -1,4 +1,4 @@
-**CTO / CIO by day — and I still ship code at night.** Native macOS apps, self-hosted infrastructure and AI dev tooling: menu bar utilities, home & energy monitoring, and the tools I need to build them. Swift, SwiftUI, Rust, Python.
+**CTO / CIO by day — and I still ship code at night.** Native macOS apps, self-hosted infrastructure and AI dev tooling: menu bar utilities, home & energy monitoring, mail triage, and the tools I need to build them. Swift, SwiftUI, Rust, Python, C#.
 
 `31` repos with a published release · `28` ship a downloadable DMG · `2,146` contributions in the last year
 
@@ -58,6 +58,7 @@
 <details open>
 <summary><b>AI &amp; developer tooling</b></summary>
 
+- **[jevOutlook](https://github.com/vincentlauriat/MailClassification.jev)** — sorts Outlook / Microsoft 365, Gmail and IMAP mailboxes by what messages *mean*, with Jev (TypeSafe's decision model): one category per message, preview by default, a hard cost cap, everything local · C# / .NET 10 · [landing page](https://vincentlauriat.github.io/MailClassification.jev/)
 - **[toolkit](https://github.com/vincentlauriat/toolkit)** — my Claude Code plugin marketplace: `/plugin marketplace add vincentlauriat/toolkit`
 - **[ClaudeCodeUsage](https://github.com/vincentlauriat/ClaudeCodeUsage)** — local Claude Code usage: sessions, tokens, cache, estimated cost
 - **[RTKInfos](https://github.com/vincentlauriat/RTKInfos)** — visualize token savings from [rtk](https://github.com/rtk-ai/rtk) by rtk-ai, a CLI proxy that cuts LLM token use by 60–90%
@@ -90,6 +91,7 @@
 ![SpriteKit](https://img.shields.io/badge/SpriteKit-4A90D9?style=flat-square&logo=apple&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DE7C36?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
