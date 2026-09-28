@@ -58,7 +58,7 @@
 <details open>
 <summary><b>AI &amp; developer tooling</b></summary>
 
-- **[jevOutlook](https://github.com/vincentlauriat/MailClassification.jev)** — sorts Outlook / Microsoft 365, Gmail and IMAP mailboxes by what messages *mean*, with Jev (TypeSafe's decision model): one category per message, preview by default, a hard cost cap, everything local · C# / .NET 10 · [landing page](https://vincentlauriat.github.io/MailClassification.jev/)
+- **[MailClassification](https://github.com/vincentlauriat/MailClassification.jev)** — sorts Outlook / Microsoft 365, Gmail and IMAP mailboxes by what messages *mean*, with Jev (TypeSafe's decision model): one category per message, preview by default, a hard cost cap, everything local · web dashboard, CLI and [Outlook add-in](https://vincentlauriat.github.io/MailClassification.jev/addin/) · C# / .NET 10 · [landing page](https://vincentlauriat.github.io/MailClassification.jev/)
 - **[toolkit](https://github.com/vincentlauriat/toolkit)** — my Claude Code plugin marketplace: `/plugin marketplace add vincentlauriat/toolkit`
 - **[ClaudeCodeUsage](https://github.com/vincentlauriat/ClaudeCodeUsage)** — local Claude Code usage: sessions, tokens, cache, estimated cost
 - **[RTKInfos](https://github.com/vincentlauriat/RTKInfos)** — visualize token savings from [rtk](https://github.com/rtk-ai/rtk) by rtk-ai, a CLI proxy that cuts LLM token use by 60–90%
